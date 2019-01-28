@@ -9,13 +9,15 @@
 - [Remittance](#remittance)
 - [Tools](#tools)
 
+## Resources
+
 ### Blogs
 
 ### Community
-- [r/financialindependence](https://www.reddit.com/r/financialindependence/)
-- [r/Frugal](https://www.reddit.com/r/Frugal/)
-- [r/personalfinance](https://www.reddit.com/r/personalfinance/)
-- [r/PFtools](https://www.reddit.com/r/PFtools/)
+- [r/eupersonalfinance](https://www.reddit.com/r/eupersonalfinance/) - Subreddit with advice on personal finance in EU countries.
+- [r/Frugal](https://www.reddit.com/r/Frugal/) - Subreddit with tips and tricks on how to save money on literally everything.
+- [r/personalfinance](https://www.reddit.com/r/personalfinance/) - Subreddit with advice on personal finance (mainly in US and Canada).
+- [r/PFtools](https://www.reddit.com/r/PFtools/) - Subreddit for personal finance tools.
 
 ### Courses
 
@@ -30,6 +32,11 @@
 - [Xoom](https://www.xoom.com/)
 
 ### Tools
+
+- [Mint](https://www.mint.com/) - A web-based personal financial management service for US and Canada.
+- [Tiller Money](https://www.tillerhq.com/) - A service that imports financial transactions into Google Sheets.
+- [Tricount](https://www.tricount.com/) - A mobile app that helps group of people share expenses.
+- [YNAB](https://www.youneedabudget.com/) - A multi-platform personal budgeting program based on the envelope method.
 
 ## License
 
