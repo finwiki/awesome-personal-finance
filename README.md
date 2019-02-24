@@ -2,14 +2,21 @@
 
 ## Contents
 
+- [Banking Services](#banking-services)
 - [Blogs](#blogs)
 - [Community](#community)
 - [Courses](#courses)
 - [Remittance](#remittance)
 - [Tools](#tools)
-- [Virtual Banks](#virtual-banks)
 
 ## Resources
+
+### Banking Services
+
+- [Glint](https://glintpay.com/)
+- [Monzo](https://monzo.com/)
+- [N26](https://www.n26.com)
+- [Revolut](https://www.revolut.com/)
 
 ### Blogs
 
@@ -46,13 +53,6 @@
 - [Tiller Money](https://www.tillerhq.com/) - A service that imports financial transactions into Google Sheets.
 - [Tricount](https://www.tricount.com/) - A mobile app that helps group of people share expenses.
 - [YNAB](https://www.youneedabudget.com/) - A multi-platform personal budgeting program based on the envelope method.
-
-### Virtual Banks
-
-- [Glint](https://glintpay.com/)
-- [Monzo](https://monzo.com/)
-- [N26](https://www.n26.com)
-- [Revolut](https://www.revolut.com/)
 
 ## License
 
