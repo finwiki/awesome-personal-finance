@@ -22,7 +22,6 @@
 
 - [MintLife Blog - Personal Finance News & Advice](https://blog.mint.com/)
 - [Mr. Money Mustache](https://www.mrmoneymustache.com/)
-- [The Penny Hoarder](https://www.thepennyhoarder.com/)
 
 ### Community
 
