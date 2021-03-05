@@ -43,7 +43,7 @@
 
 - [MoneyGram](http://global.moneygram.com/)
 - [Transfast](https://www.transfast.com/)
-- [TransferWise](https://transferwise.com/)
+- [Wise](https://wise.com/) (previously TransferWise)
 - [WorldRemit](https://www.worldremit.com/)
 - [Xoom](https://www.xoom.com/)
 
