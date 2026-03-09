@@ -49,6 +49,7 @@
 ### Tools
 
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio/) - A web-based open source wealth management software.
+- [KeepRule](https://keeprule.com/) - A free investment education platform with 1,300+ principles from 27 legendary investors, scenario-based guides, and an investment psychology test.
 - [Mint](https://www.mint.com/) - A web-based personal financial management service for US and Canada.
 - [Tiller Money](https://www.tillerhq.com/) - A service that imports financial transactions into Google Sheets.
 - [Tricount](https://www.tricount.com/) - A mobile app that helps group of people share expenses.
