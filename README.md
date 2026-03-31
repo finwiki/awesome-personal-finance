@@ -53,7 +53,13 @@
 - [Tiller Money](https://www.tillerhq.com/) - A service that imports financial transactions into Google Sheets.
 - [Tricount](https://www.tricount.com/) - A mobile app that helps group of people share expenses.
 - [YNAB](https://www.youneedabudget.com/) - A multi-platform personal budgeting program based on the envelope method.
+[NationalTaxTools](https://nationaltaxtools.com) - Free, no-login tax calculators for understanding how federal tax policies like No Tax on Tips, No Tax on Overtime, and the SALT Cap affect personal income. Built by an IRS Authorized e-File Provider.
 
+Pull Request title:
+Add NationalTaxTools - Free tax policy calculators
+
+Pull Request description:
+Adding NationalTaxTools.com to the tax/personal finance tools section. It's a free, no-registration website with interactive calculators covering current federal tax policy provisions including the No Tax on Tips deduction, No Tax on Overtime exemption, SALT $40K cap, and auto loan interest deduction. All content is developed by a PTIN-holding, IRS Authorized e-File Provider with 22+ years of experience. No ads, no data collection.
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
