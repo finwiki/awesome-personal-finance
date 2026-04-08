@@ -2,6 +2,7 @@
 
 ## Contents
 
+- [CalcFi](https://calcfi.app) - CalcFi - 500+ free financial calculators (mortgage, retirement, FIRE, tax, investing, crypto). No signup, no ads, free PDF reports.
 - [Banking Services](#banking-services)
 - [Blogs](#blogs)
 - [Community](#community)
