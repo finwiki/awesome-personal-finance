@@ -48,6 +48,7 @@
 
 ### Tools
 
+- [CalcFi](https://calcfi.app) - A free hub of financial calculators (mortgage, tax, retirement, salary, debt, investing) with every number sourced to public US federal data (FRED, BLS, IRS, HUD). No signup, runs in the browser, also available in Spanish.
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio/) - A web-based open source wealth management software.
 - [Mint](https://www.mint.com/) - A web-based personal financial management service for US and Canada.
 - [Tiller Money](https://www.tillerhq.com/) - A service that imports financial transactions into Google Sheets.
