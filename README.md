@@ -47,6 +47,8 @@
 - [Xoom](https://www.xoom.com/)
 
 ### Tools
+- [Levyio](https://levyio.com/) — Free US tax calculators by state and city (income, property, sales) with 2026 IRS-aligned methodology. Cites BLS, IRS, Tax Foundation, state revenue departments.
+- [Amortio](https://www.amortio.com/) — Free mortgage calculators using Freddie Mac PMMS rate data. PITI breakdown, FHA/VA/USDA eligibility, refinance break-even.
 
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio/) - A web-based open source wealth management software.
 - [Mint](https://www.mint.com/) - A web-based personal financial management service for US and Canada.
