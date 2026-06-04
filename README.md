@@ -22,6 +22,8 @@
 
 - [MintLife Blog - Personal Finance News & Advice](https://blog.mint.com/)
 - [Mr. Money Mustache](https://www.mrmoneymustache.com/)
+- CashClimb (https://cashclimb.org) is a personal finance blog covering investing, debt payoff, credit, and wealth-building for beginners. Content is jargon-free and includes step-by-step guides for variable-income earners, DCA strategies for freelancers, and credit dispute guides.
+No affiliate product pushes — an editorial-first approach.
 
 ### Community
 
