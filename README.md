@@ -48,6 +48,8 @@
 
 ### Tools
 
+- [Mini Tools UK Tax Calculator](https://mini-tools.uk/tax) - Estimates UK income tax and take-home pay with clear assumptions.
+
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio/) - A web-based open source wealth management software.
 - [Mint](https://www.mint.com/) - A web-based personal financial management service for US and Canada.
 - [Tiller Money](https://www.tillerhq.com/) - A service that imports financial transactions into Google Sheets.
