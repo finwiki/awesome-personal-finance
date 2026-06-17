@@ -48,6 +48,7 @@
 
 ### Tools
 
+- [Digital Product Seller Ledger Sample](https://github.com/Ronnie2025/xianyu-virtual-product-ledger-sample) - A free Excel/CSV ledger sample for digital product sellers to track orders, platform fees, product costs, refunds, gross margin, and weekly review actions.
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio/) - A web-based open source wealth management software.
 - [Mint](https://www.mint.com/) - A web-based personal financial management service for US and Canada.
 - [Tiller Money](https://www.tillerhq.com/) - A service that imports financial transactions into Google Sheets.
