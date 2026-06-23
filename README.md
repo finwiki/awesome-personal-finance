@@ -22,6 +22,7 @@
 
 - [MintLife Blog - Personal Finance News & Advice](https://blog.mint.com/)
 - [Mr. Money Mustache](https://www.mrmoneymustache.com/)
+- [Ordinary Man Trying](https://ordinarymantrying.com/) - Building-in-public blog documenting AI-assisted side hustles, value investing experiments, and financial independence journey. Real numbers, no spin.
 
 ### Community
 
