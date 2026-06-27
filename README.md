@@ -53,6 +53,7 @@
 - [Tiller Money](https://www.tillerhq.com/) - A service that imports financial transactions into Google Sheets.
 - [Tricount](https://www.tricount.com/) - A mobile app that helps group of people share expenses.
 - [YNAB](https://www.youneedabudget.com/) - A multi-platform personal budgeting program based on the envelope method.
+- [Debt Payoff Calculator](https://comil27.github.io/) - Free, open-source debt snowball vs avalanche calculator that shows your debt-free date and total interest.
 
 ## License
 
