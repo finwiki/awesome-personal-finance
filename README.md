@@ -17,6 +17,7 @@
 - [Monzo](https://monzo.com/)
 - [N26](https://www.n26.com)
 - [Revolut](https://www.revolut.com/)
+- [NordicExpat — Best Bank Accounts for Expats in Denmark](https://nordicexpat.com/denmark/best-bank-account-denmark-expat) — Compares Lunar, Wise and Nordea for expats; includes pre-CPR options.
 
 ### Blogs
 
