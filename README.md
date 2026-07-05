@@ -48,6 +48,7 @@
 
 ### Tools
 
+- [FIManager](https://fimanager.app/fi-calculator) - A free, no-signup calculator for estimating your financial-independence (FIRE) number, plus a freemium FI-planning web app.
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio/) - A web-based open source wealth management software.
 - [Mint](https://www.mint.com/) - A web-based personal financial management service for US and Canada.
 - [Tiller Money](https://www.tillerhq.com/) - A service that imports financial transactions into Google Sheets.
