@@ -22,6 +22,7 @@
 
 - [MintLife Blog - Personal Finance News & Advice](https://blog.mint.com/)
 - [Mr. Money Mustache](https://www.mrmoneymustache.com/)
+- [Personal Finance Whitepaper](https://nontravis.github.io/personal-finance-whitepaper/) - A free, multilingual guide to building wealth with a simple 3-pillar Cashflow/Investment/Savings framework.
 
 ### Community
 
