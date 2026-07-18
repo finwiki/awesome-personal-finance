@@ -56,4 +56,6 @@
 
 ## License
 
+ [BudgetWise AI](https://github.com) - A lightweight, privacy-focused Windows personal finance app featuring secure local storage, voice-command expense logging, and budget grading.
+
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
