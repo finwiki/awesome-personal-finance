@@ -49,6 +49,7 @@
 ### Tools
 
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio/) - A web-based open source wealth management software.
+- [IndepAI](https://indepai.app/tools/coast-fire-calculator) - A free Coast FIRE calculator for digital nomads and expats, backed by real cost of living data across 11,400+ cities instead of a single generic estimate.
 - [Mint](https://www.mint.com/) - A web-based personal financial management service for US and Canada.
 - [Tiller Money](https://www.tillerhq.com/) - A service that imports financial transactions into Google Sheets.
 - [Tricount](https://www.tricount.com/) - A mobile app that helps group of people share expenses.
