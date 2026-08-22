@@ -50,6 +50,7 @@
 
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio/) - A web-based open source wealth management software.
 - [Mint](https://www.mint.com/) - A web-based personal financial management service for US and Canada.
+- [SubSniff](https://github.com/ShavitR/subsniff) - A CLI tool that scans bank CSV exports and uncovers hidden subscriptions and recurring charges.
 - [Tiller Money](https://www.tillerhq.com/) - A service that imports financial transactions into Google Sheets.
 - [Tricount](https://www.tricount.com/) - A mobile app that helps group of people share expenses.
 - [YNAB](https://www.youneedabudget.com/) - A multi-platform personal budgeting program based on the envelope method.
