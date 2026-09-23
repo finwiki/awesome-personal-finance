@@ -22,6 +22,7 @@
 
 - [MintLife Blog - Personal Finance News & Advice](https://blog.mint.com/)
 - [Mr. Money Mustache](https://www.mrmoneymustache.com/)
+- [FIREnomics](https://www.firenomics.com/) - Practical FIRE guides: savings rate math, index funds, withdrawal strategy.
 
 ### Community
 
