@@ -49,6 +49,7 @@
 ### Tools
 
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio/) - A web-based open source wealth management software.
+- [Ledger & Line](https://ledger-and-line-two.vercel.app/) - Free inflation, loan amortization, and paycheck/tax bracket calculators, with every figure sourced to BLS, IRS, and SSA data.
 - [Mint](https://www.mint.com/) - A web-based personal financial management service for US and Canada.
 - [Tiller Money](https://www.tillerhq.com/) - A service that imports financial transactions into Google Sheets.
 - [Tricount](https://www.tricount.com/) - A mobile app that helps group of people share expenses.
