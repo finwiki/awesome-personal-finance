@@ -52,6 +52,7 @@
 - [Mint](https://www.mint.com/) - A web-based personal financial management service for US and Canada.
 - [Tiller Money](https://www.tillerhq.com/) - A service that imports financial transactions into Google Sheets.
 - [Tricount](https://www.tricount.com/) - A mobile app that helps group of people share expenses.
+- [Truthifi](https://truthifi.com) - One verified record of a household's accounts, holdings and fees, reviewed every night and scored, with an MCP server that brings it into your AI assistant.
 - [YNAB](https://www.youneedabudget.com/) - A multi-platform personal budgeting program based on the envelope method.
 
 ## License
