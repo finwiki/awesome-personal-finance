@@ -34,6 +34,7 @@
 ### Courses
 
 - [Investment Vehicles, Insurance, and Retirement](https://www.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial) - A course by Khan Acadameny that describes mutual funds, ETFs, retirement accounts, life insurance and hedge funds.
+- [Pehle Samjho — Reading PSX filings](https://pehlesamjho.com/learn/filings) - Free guided course on reading Pakistan Stock Exchange company filings before you invest.
 - [Personal Finance](https://itunes.apple.com/us/course/personal-finance/id549538984) - A course by Missouri State University that assumes zero financial knowledge.
 
 ### Remittance
