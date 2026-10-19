@@ -52,6 +52,7 @@
 - [Mint](https://www.mint.com/) - A web-based personal financial management service for US and Canada.
 - [Tiller Money](https://www.tillerhq.com/) - A service that imports financial transactions into Google Sheets.
 - [Tricount](https://www.tricount.com/) - A mobile app that helps group of people share expenses.
+- [Trip Split](https://tripsplit.sagasu.art/) - Free-to-start trip expense splitter: friends join by link (no sign-up), log expenses offline, settle with a short list of transfers.
 - [YNAB](https://www.youneedabudget.com/) - A multi-platform personal budgeting program based on the envelope method.
 
 ## License
