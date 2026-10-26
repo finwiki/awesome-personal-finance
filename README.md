@@ -30,6 +30,7 @@
 - [r/Frugal](https://www.reddit.com/r/Frugal/) - Subreddit with tips and tricks on how to save money on literally everything.
 - [r/personalfinance](https://www.reddit.com/r/personalfinance/) - Subreddit with advice on personal finance (mainly in US and Canada).
 - [r/PFtools](https://www.reddit.com/r/PFtools/) - Subreddit for personal finance tools.
+- [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 ### Courses
 
