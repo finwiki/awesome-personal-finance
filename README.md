@@ -48,6 +48,7 @@
 
 ### Tools
 
+- [Calculation Hub Compound Interest Calculator](https://calculation-hub.com/financial/compound-interest) - Estimate compound growth with recurring contributions and optional tax and inflation assumptions.
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio/) - A web-based open source wealth management software.
 - [Mint](https://www.mint.com/) - A web-based personal financial management service for US and Canada.
 - [Tiller Money](https://www.tillerhq.com/) - A service that imports financial transactions into Google Sheets.
