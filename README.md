@@ -53,6 +53,7 @@
 - [Tiller Money](https://www.tillerhq.com/) - A service that imports financial transactions into Google Sheets.
 - [Tricount](https://www.tricount.com/) - A mobile app that helps group of people share expenses.
 - [YNAB](https://www.youneedabudget.com/) - A multi-platform personal budgeting program based on the envelope method.
+- [SmartBizCalc](https://smartbizcalc.com/) - Free business and financial calculators for self-employed individuals and small business owners: self-employment tax, quarterly estimated tax, 1099 vs W-2 comparison, break-even analysis, and 700+ more. No signup required.
 
 ## License
 
