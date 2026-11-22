@@ -51,6 +51,7 @@
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio/) - A web-based open source wealth management software.
 - [Mint](https://www.mint.com/) - A web-based personal financial management service for US and Canada.
 - [Tiller Money](https://www.tillerhq.com/) - A service that imports financial transactions into Google Sheets.
+- [SmartBizCalc](https://smartbizcalc.com/) - Free collection of 870+ small-business financial calculators: self-employment tax, payroll, 1099 vs W-2, break-even analysis, startup costs, profit margins, and contractor pricing. No sign-up required.
 - [Tricount](https://www.tricount.com/) - A mobile app that helps group of people share expenses.
 - [YNAB](https://www.youneedabudget.com/) - A multi-platform personal budgeting program based on the envelope method.
 
