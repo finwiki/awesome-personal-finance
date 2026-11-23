@@ -49,6 +49,7 @@
 ### Tools
 
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio/) - A web-based open source wealth management software.
+- [Moedux](https://www.moedux.com/?utm_source=github&utm_medium=directory&utm_campaign=finwiki-awesome-personal-finance) - Brazilian (pt-BR) short-term cash-flow diagnosis: projects the date your balance hits zero and the next action. Free one-click sample without signup; 14-day trial without a card.
 - [Mint](https://www.mint.com/) - A web-based personal financial management service for US and Canada.
 - [Tiller Money](https://www.tillerhq.com/) - A service that imports financial transactions into Google Sheets.
 - [Tricount](https://www.tricount.com/) - A mobile app that helps group of people share expenses.
